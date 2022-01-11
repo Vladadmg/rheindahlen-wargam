@@ -1,0 +1,93 @@
+.navi  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+	color: #736A51; 
+	font-weight: bold;
+	text-decoration: none;
+	border-style: none;
+	padding-right:5px; 
+	text-align: right}
+
+a.navi:visited  {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	color: #736A51; 
+	font-weight: bold;
+	text-decoration: none;
+	padding-right:5px; 
+	text-align: right}
+
+a.navi:hover  {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 16px; 
+	color: #736A51; 
+	font-weight: bold;
+	text-decoration: none;
+	padding-right:5px; 
+	text-align: right}
+
+
+
+.navi_unten  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+	color: #FFFFFF; 
+	font-weight: bold;
+	text-decoration: none;
+	border-style: none;
+	padding-right:20px; 
+	text-align: right}
+
+a.navi_unten:visited  {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	color: #FFFFFF; 
+	font-weight: bold;
+	text-decoration: none;
+	padding-right:20px; 
+	text-align: right}
+
+a.navi_unten:hover  {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 16px; 
+	color: #FFFFFF; 
+	font-weight: bold;
+	text-decoration: none;
+	padding-right:20px; 
+	text-align: right}
+
+
+
+.fliesstext {   
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	text-align:left;
+	color: #FFFFFF}
+
+a.fliesstext:hover  {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #FFFFFF; 
+	text-decoration: none
+
+	}
+
+
+.fliesstext_fett { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #FFFFFF; 
+	font-weight: bold}
+
+.fliesstext_fett_gross { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	color: #FFFF00; 
+	font-weight: bold}
+
+.Überschrift {   text-align:center; padding-right: 10px; padding-bottom: 50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 30px; color: #FFFFFF}
+
+.Überschrift_gross {   text-align:right; padding-right: 10px; padding-bottom: 5px; text-align:right; padding-right: 10px; padding-bottom: 5px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 26px; color: #000000; text-transform:lowercase}
+
+.Überschrift_klein {   text-align:center; padding-right: 10px; padding-bottom: 5px; text-align:right; padding-right: 10px; padding-bottom: 5px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold;color: #FFFFFF}
+
